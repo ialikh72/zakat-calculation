@@ -1,5 +1,3 @@
-
-
 💰 Zakat Calculator (C++ Console Program)
 
 This is a simple C++ console application that calculates Zakat (2.5%) based on the user’s religion and total balance.
